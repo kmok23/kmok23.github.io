@@ -1,6 +1,13 @@
 # main links
 main:
-  - title: "Home"
+  - title: "Data Cleaning"
+    url: /data-cleaning/
+  - title: "Exploratory Data Analysis"
+    url: /exploratory-data-analysis/
+  - title: "Data Visualizations"
+    url: /data-visualizations/
+  - title: "Machine Learning"
+    url: /machine-learning/
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
